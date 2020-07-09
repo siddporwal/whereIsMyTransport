@@ -1,6 +1,6 @@
 # where_is_my_transport
 
-A new Flutter application.
+This application is a vehicle tracking monitoring system (vtms), you can use this application to track the live gps location of vehicles. This a flutter application.
 
 ## Getting Started
 
