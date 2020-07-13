@@ -25,7 +25,7 @@ class _HomeState extends State<Home> {
                   TileLayerOptions(
                     urlTemplate: "",
                     additionalOptions: {
-                      'apiKey': 'eUW0E3RZcxo8soHY6hlvC01M4sTpB97G',
+                      'apiKey': 'Your api key',
                     },
                   )
                 ],
